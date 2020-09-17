@@ -1,21 +1,19 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Hi,
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: About
+subheading: My name XYZ
 mainpitch:
-  title: Why Kaldi
+  title: About
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Since August 2019 I'm a co-founder of SOFTBAY X, a South African company
+    specialized in iOS Apps, Websites and Web Applications for business. We also
+    use the latest technologies like Augmented Reality & Machine Learning
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
